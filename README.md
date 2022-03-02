@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepinder Singh</h1>
-<h3 align="center">A passionate React/React Native developer</h3>
+<h3 align="center">A passionate developer learning React/React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepinder012&label=Profile%20views&color=0e75b6&style=flat" alt="deepinder012" /> </p>
 
